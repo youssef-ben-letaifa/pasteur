@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 Future<void> main() async {
-  const apiKey = 'AIzaSyC24zL3GQQNENiwVm_-yE73zRtGinGP_fc';
+  const apiKey = '-------------------------------';
   const endpoint = 'https://generativelanguage.googleapis.com/v1beta/models';
 
   print('Listing Gemini Models...');
