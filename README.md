@@ -4,10 +4,12 @@
 
 ### Intelligent Medical Assistant for Tunisia
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+<p>
+  <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://dart.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
+  <a href="https://ai.google.dev/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google AI" width="40" height="40"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0047AB.svg?style=flat" alt="License"/></a>
+</p>
 
 **Pasteur** is an AI-powered mobile health assistant designed specifically for the Tunisian healthcare context. Built with Flutter, it empowers users to take control of their health through intelligent insights, vital tracking, and seamless medical appointment management.
 
@@ -61,12 +63,17 @@
 
 <div align="center">
 
-### Core Technologies
+### Core Technologies & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google AI" width="50" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google AI" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/openstreetmap/openstreetmap-icon.svg" alt="OpenStreetMap" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
 </p>
 
 </div>
@@ -263,16 +270,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - GitHub: [@youssef-ben-letaifa](https://github.com/youssef-ben-letaifa)
 - LinkedIn: [Youssef Ben Letaifa](https://www.linkedin.com/in/youssefbenletaifa/)
 - Portfolio: [youssef-ben-letaifa.github.io](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
-
----
-
-## 🙏 Acknowledgments
-
-- [Flutter Team](https://flutter.dev/) for the amazing framework
-- [Google Gemini AI](https://ai.google.dev/) for AI capabilities
-- [OpenStreetMap](https://www.openstreetmap.org/) for mapping services
-- [med.tn](https://www.med.tn/) for medical directory data
-- All contributors and supporters of this project
 
 ---
 
